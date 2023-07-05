@@ -10,4 +10,10 @@ namespace CistNure.Enums
         Examination = 50,
         CourseWork = 60
     }
+    public enum ScheduleTypes
+    {
+        Group = 1,
+        Teacher,
+        Auditory
+    }
 }
